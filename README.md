@@ -1,2 +1,2 @@
 # Demo-websites
-HTML CSS JS
+My first project HTML CSS
